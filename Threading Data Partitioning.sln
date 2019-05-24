@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non Partitioned Compute", "Non Partitioned Compute\Non Partitioned Compute.csproj", "{6A8A8A0C-1B26-4C1D-A937-EEFEC3AA27C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partitioned Compute With Multiple Threads", "Partitioned Compute With Multiple Threads\Partitioned Compute With Multiple Threads.csproj", "{6B3BB334-6FDB-43E1-81F5-E418658707E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A8A8A0C-1B26-4C1D-A937-EEFEC3AA27C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8A8A0C-1B26-4C1D-A937-EEFEC3AA27C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8A8A0C-1B26-4C1D-A937-EEFEC3AA27C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8A8A0C-1B26-4C1D-A937-EEFEC3AA27C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B3BB334-6FDB-43E1-81F5-E418658707E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3BB334-6FDB-43E1-81F5-E418658707E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3BB334-6FDB-43E1-81F5-E418658707E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3BB334-6FDB-43E1-81F5-E418658707E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97EB073E-C136-44D9-B853-AB77809DA3FF}
+	EndGlobalSection
+EndGlobal
